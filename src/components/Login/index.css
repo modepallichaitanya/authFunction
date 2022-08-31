@@ -1,0 +1,30 @@
+/* Write your CSS code here */
+.login {
+  background-color: aliceblue;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-self: center;
+  justify-content: center;
+  height: 100vh;
+  background-size: cover;
+  padding: 20px;
+}
+.heading {
+  font-size: 40px;
+  font-weight: 700;
+  font-family: 'Roboto';
+  align-items: center;
+  color: black;
+}
+.login_button {
+  background-color: antiquewhite;
+  color: black;
+  align-items: center;
+  border-radius: 5px;
+  border-style: none;
+  font-size: 12px;
+  width: fit-content;
+  height: fit-content;
+  padding: 10px;
+}

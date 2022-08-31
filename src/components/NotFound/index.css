@@ -1,0 +1,17 @@
+/* Write your CSS code here */
+.not {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+
+.heading {
+  font-size: 40px;
+  font-weight: 700;
+  font-family: 'Roboto';
+  align-self: center;
+  margin-top: 20px;
+  color: black;
+}
